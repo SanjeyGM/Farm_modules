@@ -136,13 +136,4 @@ If no API key is provided, the application runs in demo mode with:
 - **API Key Not Working**: Verify that your Gemini API key is correct and has been properly set in the `.env` file
 - **Performance Issues**: For large PDFs, the initial indexing might take longer
 
-## License
 
-[MIT License](LICENSE)
-
-## Acknowledgements
-
-- Built with [Streamlit](https://streamlit.io/)
-- Uses [Gemini AI](https://deepmind.google/technologies/gemini/) for intelligent recommendations
-- PDF processing with [PyMuPDF](https://pymupdf.readthedocs.io/)
-- Data visualization with [Plotly](https://plotly.com/)
