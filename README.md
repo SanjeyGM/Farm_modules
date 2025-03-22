@@ -15,7 +15,7 @@ A Streamlit-based application that helps aquafarmers monitor their systems and g
 
 ## Screenshot
 
-![Aquafarming Advisor Screenshot](https://via.placeholder.com/800x450)
+![Aquafarming Advisor Screenshot](assets.png)
 
 ## Installation
 
