@@ -1,6 +1,4 @@
-# Farm_modules
-
-# 🐟 Aquafarming Advisor
+# Farm_modules Chatbot
 
 A Streamlit-based application that helps aquafarmers monitor their systems and get expert advice based on sensor data and farming best practices from their operations manual.
 
@@ -28,8 +26,8 @@ A Streamlit-based application that helps aquafarmers monitor their systems and g
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/aquafarming-advisor.git
-   cd aquafarming-advisor
+   git clone https://github.com/yourusername/Farm_modules.git
+   cd Farm_modules
    ```
 
 2. Create a virtual environment:
@@ -48,7 +46,7 @@ A Streamlit-based application that helps aquafarmers monitor their systems and g
    pip install -r requirements.txt
    ```
 
-4. Create a `.env` file in the project root and add your Gemini API key (optional):
+4. Create a `.env` file in the project root and add your Gemini API key (optional) or jut add Gemini key after running in the Application:
    ```
    GEMINI_API_KEY=your_api_key_here
    ```
